@@ -1,5 +1,3 @@
-# Hey, I'm Dheeraj 👋
-
 I run **Raised by Algorithms** on Instagram, where I test AI tools and share what actually works for me — no hype, no made-up stuff.
 
 Every prompt I post there lives here, free for anyone to copy and use. That's it. That's the whole idea.
