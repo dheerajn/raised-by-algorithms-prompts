@@ -1,23 +1,26 @@
 # Character Continuity Sheet
 
-Hey — this is the prompt behind the sheet in my Instagram post.
-
-You know the problem: you generate a person with AI, and every new image gives you a slightly different face. This prompt fixes that. It gives you one sheet with 6 views of the same person, and from then on you use that sheet as your reference for every image and video.
-
-Here's the sheet it makes:
+A prompt for generating a character continuity sheet — a single reference sheet with six photorealistic views of the same person, for use in AI image and video creation.
 
 ![Character Continuity Sheet](character-continuity-sheet.jpg)
 
-## How I use it
+## What it produces
 
-1. Open your AI image tool — I use it in ChatGPT and Gemini, it works in both.
-2. Upload your photos of the person. Put your best, clearest face photo first, and add a full-body photo if you have one.
-3. Copy the prompt below and paste it in, word for word.
-4. Save the sheet it gives you back. That's your master reference now — use it for everything you make with that person.
+One vertical 3:4 sheet with six views of the same person:
+
+- Upper row: front, three-quarter, and profile head-and-shoulders portraits
+- Lower row: front, side, and back full-body standing views
+
+Once generated, the sheet can be used as a reference image so the person's face, hair, outfit, and body proportions stay consistent in later images and videos.
+
+## How to use it
+
+1. Open an AI image generation tool.
+2. Upload reference photos of the person. The first photo should be the clearest face photo. Add a full-body photo if one is available, plus any additional angles.
+3. Copy the full prompt below and paste it in, without changes.
+4. Save the generated sheet and use it as the reference for future images and videos of the same person.
 
 ## The full prompt
-
-Tap the copy button at the top right of this box, and paste it exactly as it is:
 
 ```text
 Using my uploaded photos, produce a high-resolution, photorealistic character continuity sheet for AI image and video creation. The person’s recognizable identity must remain the highest priority throughout.
@@ -78,10 +81,9 @@ Lower labels: FRONT · SIDE · BACK
 Generate and return the completed reference-sheet image directly.
 ```
 
-Rather have it plain, with no formatting? Here you go: [prompt.txt](prompt.txt)
+Plain text version, with no formatting: [prompt.txt](prompt.txt)
 
-## One honest note
+## Notes
 
-This keeps the face *much* more consistent, but AI still isn't perfect. Check the sheet it gives you before you build anything on it — if a face looks off, just generate it again.
-
-Want more like this? I post tested prompts on Instagram: [@raised_by_the_algorithms](https://www.instagram.com/raised_by_the_algorithms/)
+- Results vary by tool. If the likeness is not accurate in the generated sheet, generate it again or use clearer reference photos.
+- Do not add tattoos, jewelry, logos, or other details that are not in the reference photos.
