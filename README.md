@@ -1,19 +1,18 @@
-I run **Raised by Algorithms** on Instagram, where I test AI tools and share what actually works for me — no hype, no made-up stuff.
+# AI Prompts
 
-Every prompt I post there lives here, free for anyone to copy and use. That's it. That's the whole idea.
+A collection of ready-to-use prompts for AI image and video generation. Each prompt is in its own folder with a short description, an example result, and the full prompt ready to copy.
 
-## Start here
+## Prompts
 
-**[Character Continuity Sheet](prompts/character-continuity-sheet/)** — the prompt I use to keep the same person's face in every AI image and video. You make the sheet once, then use it as your reference every time after that.
+**[Character Continuity Sheet](prompts/character-continuity-sheet/)** — A prompt for keeping the same person's face consistent across AI images and videos. Generate the sheet once, then use it as the reference for every image and video after that.
 
-## How it works
+## How to use a prompt
 
-1. Pick a prompt above and open it.
-2. Tap the copy button on the big prompt box.
-3. Paste it into your AI image tool along with your photos.
+1. Open a prompt from the list above.
+2. Copy the full prompt using the copy button on the code block.
+3. Paste it into an AI image or video tool, along with any input images the prompt asks for.
 
-## What's coming
+## Notes
 
-Every time I post a new prompt on Instagram, it'll show up here too. So if you saw something on my page and thought "I want that prompt," this is where it is.
-
-Follow along: [@raised_by_the_algorithms](https://www.instagram.com/raised_by_the_algorithms/)
+- A prompt may need small adjustments depending on the tool being used.
+- Always check the generated result before using it — if something looks wrong, generate it again.
